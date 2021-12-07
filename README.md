@@ -1,4 +1,4 @@
-# Stress Detection Through Out-of_distribution Techniques
+# Stress Detection Through Out-Of-Distribution Techniques
 
 Stress is an essential issue of modern society, but the problem lies not only in its presence, but also in the detection and prevention of its negative consequences. Researchers are aware that stress negatively impacts human health and society. Therefore, substantial efforts have lately been made to establish an autonomous stress monitoring system along with various algorithms and methodologies using smart devices. 
 
